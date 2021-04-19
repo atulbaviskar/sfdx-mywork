@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Hired_Applicants__c</fullName>
+    <description>d</description>
+    <externalId>false</externalId>
+    <label>Hired Applicants</label>
+    <summaryFilterItems>
+        <field>Candidate_Atul__c.Status__c</field>
+        <operation>equals</operation>
+        <value>Hired</value>
+    </summaryFilterItems>
+    <summaryForeignKey>Candidate_Atul__c.Job__c</summaryForeignKey>
+    <summaryOperation>count</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ENZ_AttachFTP_LocalSendUrgent</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <hasMenubar>false</hasMenubar>
+    <hasScrollbars>true</hasScrollbars>
+    <hasToolbar>false</hasToolbar>
+    <height>600</height>
+    <isResizable>true</isResizable>
+    <linkType>url</linkType>
+    <masterLabel>LocalSendUrgent</masterLabel>
+    <openType>newWindow</openType>
+    <position>none</position>
+    <protected>false</protected>
+    <showsLocation>false</showsLocation>
+    <showsStatus>false</showsStatus>
+    <url>https://demoexamples-dev-ed--enz.AP5.visual.force.com/apex/LightningEval?URLToBeRedirect=https://localhost/sforce/ftp/SendEMail.aspx&amp;ID={!Account.Id}&amp;OrgID={!Organization.Id}&amp;SFUrl={!API.Partner_Server_URL_90}&amp;To=297 kailash nagar&amp;Cc=297 kailash nagar&amp;Bcc=297 kailash nagar&amp;From=atulbaviskar123@gmail.com</url>
+    <width>800</width>
+</WebLink>

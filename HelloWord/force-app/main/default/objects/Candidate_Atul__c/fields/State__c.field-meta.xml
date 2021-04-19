@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>State__c</fullName>
+    <externalId>false</externalId>
+    <label>State</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Country__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Victoria</fullName>
+                <default>false</default>
+                <label>Victoria</label>
+            </value>
+            <value>
+                <fullName>Western Australia</fullName>
+                <default>false</default>
+                <label>Western Australia</label>
+            </value>
+            <value>
+                <fullName>Christmas Island</fullName>
+                <default>false</default>
+                <label>Christmas Island</label>
+            </value>
+            <value>
+                <fullName>Norfolk Island</fullName>
+                <default>false</default>
+                <label>Norfolk Island</label>
+            </value>
+            <value>
+                <fullName>South Australia</fullName>
+                <default>false</default>
+                <label>South Australia</label>
+            </value>
+            <value>
+                <fullName>Andra Pradesh</fullName>
+                <default>false</default>
+                <label>Andra Pradesh</label>
+            </value>
+            <value>
+                <fullName>Arunachal Pradesh</fullName>
+                <default>false</default>
+                <label>Arunachal Pradesh</label>
+            </value>
+            <value>
+                <fullName>Assam</fullName>
+                <default>false</default>
+                <label>Assam</label>
+            </value>
+            <value>
+                <fullName>Bihar</fullName>
+                <default>false</default>
+                <label>Bihar</label>
+            </value>
+            <value>
+                <fullName>Gujarat</fullName>
+                <default>false</default>
+                <label>Gujarat</label>
+            </value>
+            <value>
+                <fullName>Limburg</fullName>
+                <default>false</default>
+                <label>Limburg</label>
+            </value>
+            <value>
+                <fullName>Luxembourg</fullName>
+                <default>false</default>
+                <label>Luxembourg</label>
+            </value>
+            <value>
+                <fullName>Brabant Wallon</fullName>
+                <default>false</default>
+                <label>Brabant Wallon</label>
+            </value>
+            <value>
+                <fullName>Liege</fullName>
+                <default>false</default>
+                <label>Liege</label>
+            </value>
+            <value>
+                <fullName>Hainaut</fullName>
+                <default>false</default>
+                <label>Hainaut</label>
+            </value>
+            <value>
+                <fullName>Glarus</fullName>
+                <default>false</default>
+                <label>Glarus</label>
+            </value>
+            <value>
+                <fullName>Aargau</fullName>
+                <default>false</default>
+                <label>Aargau</label>
+            </value>
+            <value>
+                <fullName>Ticino</fullName>
+                <default>false</default>
+                <label>Ticino</label>
+            </value>
+            <value>
+                <fullName>Bern</fullName>
+                <default>false</default>
+                <label>Bern</label>
+            </value>
+            <value>
+                <fullName>Zug</fullName>
+                <default>false</default>
+                <label>Zug</label>
+            </value>
+            <value>
+                <fullName>Alaska</fullName>
+                <default>false</default>
+                <label>Alaska</label>
+            </value>
+            <value>
+                <fullName>Alabama</fullName>
+                <default>false</default>
+                <label>Alabama</label>
+            </value>
+            <value>
+                <fullName>Michigan</fullName>
+                <default>false</default>
+                <label>Michigan</label>
+            </value>
+            <value>
+                <fullName>Washington</fullName>
+                <default>false</default>
+                <label>Washington</label>
+            </value>
+            <value>
+                <fullName>California</fullName>
+                <default>false</default>
+                <label>California</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Australia</controllingFieldValue>
+            <valueName>Victoria</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Australia</controllingFieldValue>
+            <valueName>Western Australia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Australia</controllingFieldValue>
+            <valueName>Christmas Island</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Australia</controllingFieldValue>
+            <valueName>Norfolk Island</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Australia</controllingFieldValue>
+            <valueName>South Australia</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Andra Pradesh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Arunachal Pradesh</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Assam</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Bihar</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>India</controllingFieldValue>
+            <valueName>Gujarat</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Belgium</controllingFieldValue>
+            <valueName>Limburg</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Belgium</controllingFieldValue>
+            <valueName>Luxembourg</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Belgium</controllingFieldValue>
+            <valueName>Brabant Wallon</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Belgium</controllingFieldValue>
+            <valueName>Liege</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Belgium</controllingFieldValue>
+            <valueName>Hainaut</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switzerland</controllingFieldValue>
+            <valueName>Glarus</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switzerland</controllingFieldValue>
+            <valueName>Aargau</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switzerland</controllingFieldValue>
+            <valueName>Ticino</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switzerland</controllingFieldValue>
+            <valueName>Bern</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Switzerland</controllingFieldValue>
+            <valueName>Zug</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>States</controllingFieldValue>
+            <valueName>Alaska</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>States</controllingFieldValue>
+            <valueName>Alabama</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>States</controllingFieldValue>
+            <valueName>Michigan</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>States</controllingFieldValue>
+            <valueName>Washington</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>States</controllingFieldValue>
+            <valueName>California</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>
